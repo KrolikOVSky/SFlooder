@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author : YamkaFox
-# All copyrights to Squnity team
+# All copyrights to TKOS team
 
 import random
 import socket

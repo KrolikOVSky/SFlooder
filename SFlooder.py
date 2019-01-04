@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author : D4Vinci
+# Author : YamkaFox
 # All copyrights to Squnity team
 
 import random

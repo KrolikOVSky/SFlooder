@@ -10,7 +10,7 @@ import threading
 import time
 
 # Parse inputs
-host = ""
+host = input('Введите имя сайта или IP адрес: ')
 ip = ""
 port = 0
 num_requests = 0

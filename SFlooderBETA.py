@@ -10,10 +10,10 @@ import threading
 import time
 
 # Parse inputs
-host = input('Введите имя сайта или IP адрес: ')
+int_host = input('Введите имя сайта или IP адрес: ')
 ip = ""
-port = input('Введите PORT: ')
-num_requests = input('Введите кол-во пакетов: ')
+int_port = input('Введите PORT: ')
+int_num_requests = input('Введите кол-во пакетов: ')
 
 if len(sys.argv) == 2:
     port = 80

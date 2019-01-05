@@ -12,8 +12,8 @@ import time
 # Parse inputs
 host = input('Введите имя сайта или IP адрес: ')
 ip = ""
-port = 0
-num_requests = 0
+port = input('Введите PORT: ')
+num_requests = input('Введите кол-во пакетов: ')
 
 if len(sys.argv) == 2:
     port = 80

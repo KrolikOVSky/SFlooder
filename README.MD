@@ -4,9 +4,9 @@
 #### Запуск
 1. Устанавливаем git(pkg install git)
 2. Устанавливаем python(2 версия) командой: 
-apt install python 
+apt install python2
 3. Устанавливаем git командой:
-git clone http://github.com/YamkaFox/sflooder
+git clone http://github.com/YamkaFox/sflooder.git
 4. Переходим в папку с файлом(cd sflooder)
 5. Запускаем наш файл командой:
 python2 SFlooder.py {айпи или название сайта} {порт} {сколько пакетов} вы хотите отослать

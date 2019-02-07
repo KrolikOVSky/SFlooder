@@ -8,7 +8,7 @@ import string
 import sys
 import threading
 import time
-print "https://vk.com/itdarkali"
+print "https://vk.com/itdarkkali"
 # Parse inputs
 host = ""
 ip = ""

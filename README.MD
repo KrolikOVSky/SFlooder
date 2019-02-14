@@ -24,3 +24,4 @@ python2 SFlooder.py {айпи или название сайта} {порт} {с
 #### Создатели FAQ:
 [Матвей(https://vk.com/id483313209)]
 [Максим(https://vk.com/levenchick)]
+1
